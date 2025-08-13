@@ -1,9 +1,9 @@
 import { Film, Review, NewReview } from "@/types";
 
 let FILMS: Film[] = [
-  { id: 1, title: "Inception", overview: "꿈과 현실을 넘나드는 팀의 잠입 작전.", voteAverage: 8.8 },
-  { id: 2, title: "Interstellar", overview: "인류의 미래를 위한 우주 항해.", voteAverage: 8.6 },
-  { id: 3, title: "The Dark Knight", overview: "배트맨과 조커의 대결.", voteAverage: 9.0 },
+  // { id: 1, title: "Inception", overview: "꿈과 현실을 넘나드는 팀의 잠입 작전.", voteAverage: 8.8 },
+  // { id: 2, title: "Interstellar", overview: "인류의 미래를 위한 우주 항해.", voteAverage: 8.6 },
+  // { id: 3, title: "The Dark Knight", overview: "배트맨과 조커의 대결.", voteAverage: 9.0 },
 ];
 
 let REVIEWS: Review[] = [
